@@ -6,3 +6,4 @@ venv/
 .streamlit/
 faiss_index/
 .DS_Store
+faiss_db/
